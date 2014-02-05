@@ -1,0 +1,1 @@
+Systematic Isolation is a playlist to text extractor for youtube. It is implemented very poorly. Don't expect it to work if youtube updates their page. Don't expect it to work on mac or linux. Just don't expect it to work period.
