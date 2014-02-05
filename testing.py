@@ -50,7 +50,7 @@ class MyHTMLParser(HTMLParser):
 
 # instantiate the parser and fed it some HTML
 parser = MyHTMLParser()
-response=parser.extract("http://www.youtube.com/watch?v=v4Wy7gRGgeA&list=PL1F2A764E09015687&feature=mh_lolz")
+response=parser.extract("YOUR PLAYLIST URL HERE")
 # response = urllib2.urlopen()
 # page_source = response.read()
 #print response
